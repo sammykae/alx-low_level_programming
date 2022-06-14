@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for 7-puts_half.c
  *
  * Return: Always 0.
  */
