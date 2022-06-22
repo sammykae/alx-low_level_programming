@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main - check the code for 101-wildcmp.c
  *
  * Return: Always 0.
  */
